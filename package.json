@@ -1,17 +1,11 @@
 {
   "author": "Ian Wu <onlinemad@gmail.com>",
   "name": "benmkzoo",
-  "description": "A collection of benchmark case for JavaScript.",
+  "description": "A collection of benchmark suites for JavaScript.",
   "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/onlinemad/benmkzoo.git"
   },
-  "main": "index.js",
-  "engines": {
-    "node": ">=0.4.0"
-  },
-  "dependencies": {
-    "benchmark": "*"
-  }
+  "main": "index.js"
 }

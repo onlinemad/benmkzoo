@@ -1,12 +1,16 @@
 # benmkzoo
 
-A collection of benchmark suite for Node or other JavaScript engines.
+A collection of benchmark suites for Node or other JavaScript engines.
 
 # Overview
 
-There are many benchmark cases for browser like SunSpider, Kraken, V8 Benchmark, Dromaeo, etc. But, those suite are address on benchmark performance of browser. So, they coded for web. Therefore, benmkzoo ported those suite for benchmark server-side JavaScript engine.
+There are many benchmark suites for browser like SunSpider, Kraken, V8 Benchmark, Dromaeo, etc. But, those suites are address on benchmark performance of browser. So, they coded for web. Therefore, benmkzoo ported those suites for benchmark server-side JavaScript engine.
 
 # Ported suites
 
-* SunSpider
-* Kraken
+* [SunSpider](http://sunspider-mod.googlecode.com/)
+* [Kraken](http://kraken-mirror.googlecode.com/)
+
+# Installation
+
+	npm install benmkzoo
